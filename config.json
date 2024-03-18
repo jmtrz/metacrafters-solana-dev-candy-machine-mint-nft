@@ -16,9 +16,11 @@
     "retainAuthority": true,
     "isMutable": true,
     "creators": [
-    {
-      "address": "YOUR_WALLET_ADDRESS",
-      "share": 100
-    }
-  ]
+      {
+        "address": "6LSirthmABmNL8w9Ma8mxmffptJuwp8JvxF1yqKqmvqC",
+        "share": 100
+      }
+    ],
+    "isSequential" : true,
+    "ruleSet":null
 }
